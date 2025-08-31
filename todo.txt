@@ -1,0 +1,4 @@
+//This is a todo file to manage day to day todo tasks
+- [DONE] Finish reading last chapter of book which I am reading right now
+- Do code review (Due: Today)
+- Do 1:1 with Sumit
